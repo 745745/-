@@ -1,6 +1,4 @@
 # ACM-learning
-acm learning
-
 
 这是个把github当成博客用的惨痛案例，既然都已经这样了，为什么不继续下去呢233.
 
